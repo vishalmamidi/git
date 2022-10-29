@@ -1,6 +1,12 @@
 # git
 
 ## login
+
+```
+git config --global user.email "mamidivishalsa@gmail.com"
+git config --global user.name "vishalmamidi"
+```
+
 ```
 git config --global user.email "vishal.mamidi@valuemomentum.com"
 git config --global user.name "vishalmamidi1"
