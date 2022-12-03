@@ -19,7 +19,7 @@ git config --global --unset user.email
 git config --global --unset credential.helper
 ```
 or
-``
+```
 git config --global --unset-all
 ```
 
