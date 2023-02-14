@@ -29,3 +29,10 @@ git config --global --unset-all
 remove from windows creds manager if windows.
 change .gitconfig at home directory
 ```
+
+## login
+## windows 
+open `credential manager` add `windows credential` 
+network address: `github.com`
+username: `vishalmamidi`
+password: `PVC-token`
