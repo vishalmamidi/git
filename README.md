@@ -8,9 +8,26 @@ git config --global user.name "vishalmamidi"
 ```
 
 ```
-git config --global user.email "vishal.mamidi@valuemomentum.com"
+git config --global user.email "vishalmamidi1@gmail.com"
 git config --global user.name "vishalmamidi1"
 ```
+
+
+## Squash last N commits
+
+```
+git reset --soft HEAD~3 
+git commit -m "new commit message"
+```
+
+```
+git push --force-with-lease origin <branch-name>
+```
+above 3 indicates last 3 commits which will be squashed.
+
+<https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together>
+
+
 
 ## logout
 ```
